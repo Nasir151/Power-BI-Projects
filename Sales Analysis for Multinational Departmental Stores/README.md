@@ -46,6 +46,9 @@ This dataset provides a comprehensive view of sales transactions conducted by a 
 | Shipping date (DateOrders)| Exact date and time of shipment                                                                   |
 | Shipping Mode            | Shipping modes: Standard Class, First Class, Second Class, Same Day                                 |
 
+## Accessing the Dataset
+You can access the dataset https://drive.google.com/file/d/1rNK3nmroxnxiZahUlR9g0I9rZM7uW0W5/view?usp=drive_link.
+
 ## Business Problem
 
 The primary goal of this data analysis is to extract meaningful insights from the dataset and address critical business questions. By doing so, we aim to enhance various aspects of the company's operations and overall performance:
