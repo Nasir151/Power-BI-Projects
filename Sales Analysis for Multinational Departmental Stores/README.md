@@ -4,6 +4,9 @@
 
 This dataset provides a comprehensive view of sales transactions conducted by a multinational company through its departmental stores across the world. It encompasses a wide array of details related to sales, including discount rates, profits, product information, customer data, store data, and geographical location.
 
+## Dataset
+You can access the dataset [here](https://drive.google.com/file/d/1rNK3nmroxnxiZahUlR9g0I9rZM7uW0W5/view?usp=drive_link)
+
 | Column Name              | Description                                                                                         |
 |--------------------------|-----------------------------------------------------------------------------------------------------|
 | Type                     | Type of transaction made                                                                           |
@@ -45,9 +48,6 @@ This dataset provides a comprehensive view of sales transactions conducted by a 
 | Product Status           | Status of the product stock: 1 for not available, 0 for available                                    |
 | Shipping date (DateOrders)| Exact date and time of shipment                                                                   |
 | Shipping Mode            | Shipping modes: Standard Class, First Class, Second Class, Same Day                                 |
-
-## Accessing the Dataset
-You can access the dataset https://drive.google.com/file/d/1rNK3nmroxnxiZahUlR9g0I9rZM7uW0W5/view?usp=drive_link.
 
 ## Business Problem
 
