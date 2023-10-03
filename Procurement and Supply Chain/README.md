@@ -107,6 +107,28 @@ The Procurement and Supply Chain Dashboard will provide the following benefits:
 - Supplier Consolidation: Rationalization of suppliers based on data.
 - Efficient Decision-Making: Real-time access to critical procurement information.
 
+## Download Chiclet Slicer from [here](https://lms-new.codinginvaders.com/assets/courseware/v1/ef7030f8c0eb477b63493c6bb4a4079c/asset-v1:CodingInvaders+DATEST+1+type@asset+block/chicletSlicer.pbiviz)
+
+## Icon Links for Supplier Data Columns
+
+To enhance the visual representation of the Supplier Data columns in our dashboard, we have included icons for the "Commodity," "Casting," and "Machining" columns. Here are the icon links:
+
+### Commodity Column Icons
+- **Ferrous Commodity Icon:**  
+  ![Ferrous Commodity Icon](https://cdn-icons-png.flaticon.com/128/4027/4027079.png)
+  
+- **Non-Ferrous Commodity Icon:**  
+  ![Non-Ferrous Commodity Icon](https://cdn-icons-png.flaticon.com/128/4027/4027130.png)
+
+### Casting and Machining Column Icons
+- **Casting Icon:**  
+  ![Casting Icon](https://w7.pngwing.com/pngs/164/44/png-transparent-die-casting-manufacturing-zinc-aluminium-metal-others-blue-text-logo.png)
+
+- **Machining Icon:**  
+  ![Machining Icon](https://prototechasia.com/wp-content/uploads/Metal-Machining.png)
+
+These icons will be used to visually represent the commodity type, casting capability, and machining capability in the dashboard's user interface, making it more intuitive and informative for users.
+
 ## Final Dashboard:
 
 ![Capture](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/7bfdad0b-5a7d-441a-9b3c-c529d0474ea6)
@@ -117,3 +139,42 @@ By leveraging this dashboard, the Procurement Department will be well-equipped t
 
 ------------------------------------------------------------------------------------------
 
+#### Question 1: Non-MSME suppliers are basically the ones which have a Turnover > 100cr (1000 Million), Lower than this will be classified into different types of MSME category. How many of these suppliers do we have where we can not grow more business?
+
+![Capture4](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/04bb4c59-c508-4752-97ed-459d7b181611)
+
+#### Question 2: We have a forecast that the business for ferrous casting will reduce year on year, show me how many of our ferrous casting suppliers we would need to stop business in future as the demand starts coming down.
+
+![Capture3](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/45e2b418-6924-4b16-96e2-12536fa421d5)
+
+#### Question 3: Find out the list of Small MSME suppliers where the supply chain will not increase till tier 2 suppliers as they will have full Casting and Machining capabilities.
+
+![Capture5](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/c23df980-862f-4ca9-8c53-657c090ab632)
+
+#### Question 4: As per Government rules, we can't increase the payment terms more than 45 days for any type of MSME suppliers. Keeping this in mind do we have any Non-MSME suppliers where we can go above 45 days. If yes, what is the supplier name?
+
+![Capture2](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/352f199d-c8c4-4b9c-9c28-1c960c65494c)
+
+#### Question 5: Pune is one of the Flood Risk Zone, to prepare our supplier for difficult scenarios a taskforce has been assigned. Taskforce wants to know how many of our suppliers are from Pune?
+
+![Capture6](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/09b31103-e333-4ede-9ef0-77de61ba78fe)
+
+#### Question 6: As Danny is handling a maximum of “Ferrous” suppliers, he wants to know which Part family in ferrous has the highest purchase volume?
+
+![Capture7](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/a6345676-a5e6-499c-917f-1680aacc0ab5)
+
+#### Question 7: The Management wants us to minimize the risk with our suppliers, show me the biggest NoGo Suppliers that we have to target first?
+
+![Capture8](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/c6e15c9a-9390-4109-82c0-54998917eedc)
+
+#### Question 8: Kevin is planning to reduce the ferrous raw material prices for further years for his supplier, so far in the past 2 years which is the highest Tonnage consuming RM Grade and how many tons?
+
+![Capture 9](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/70b74a8a-c37a-4790-85e9-aa6e3974d55e)
+
+#### Question 9: Paul wants to increase the business with his 2nd biggest supplier. Out of the Part Families supplied by his 2nd biggest supplier, which part family has more than one supplier, also where less purchase volume comes from his second biggest supplier?
+
+![Capture9](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/f3b1e0c6-6f27-49ec-92e9-c57fbabba7fe)
+
+#### Question 10: We want to declutter the supply chain for our top 5 suppliers, we can decide to buy from one single source and negotiate for cost saving. check if they have more than one casting supplier?
+
+![Screenshot (216)](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/fc7aaa7b-5bcc-4e8b-8a99-23c1adfb63c5)
