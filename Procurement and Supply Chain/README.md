@@ -1,5 +1,13 @@
 # Procurement and Supply Chain Dashboard
 
+## Final Dashboard:
+
+![Capture](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/7bfdad0b-5a7d-441a-9b3c-c529d0474ea6)
+
+![Capture1](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/b82162c8-a5f8-4dfa-8f87-a6c3466e12ce)
+
+By leveraging this dashboard, the Procurement Department will be well-equipped to optimize procurement processes, enhance supplier relationships, and minimize costs while ensuring a seamless supply chain operation.
+
 ## Business Context
 
 In our dynamic business environment, efficient procurement and supply chain management are pivotal to reducing costs, optimizing resources, and enhancing competitiveness. The Accounts Department of our company meticulously maintains detailed invoice records for every vendor and part procured. These records provide a treasure trove of data that, when analyzed effectively, can unlock valuable insights for the company's strategic procurement decisions.
@@ -128,14 +136,6 @@ To enhance the visual representation of the Supplier Data columns in our dashboa
   ![Machining Icon](https://prototechasia.com/wp-content/uploads/Metal-Machining.png)
 
 These icons will be used to visually represent the commodity type, casting capability, and machining capability in the dashboard's user interface, making it more intuitive and informative for users.
-
-## Final Dashboard:
-
-![Capture](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/7bfdad0b-5a7d-441a-9b3c-c529d0474ea6)
-
-![Capture1](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/b82162c8-a5f8-4dfa-8f87-a6c3466e12ce)
-
-By leveraging this dashboard, the Procurement Department will be well-equipped to optimize procurement processes, enhance supplier relationships, and minimize costs while ensuring a seamless supply chain operation.
 
 ------------------------------------------------------------------------------------------
 
