@@ -1,12 +1,12 @@
 # Blu Company Dashboard Project
 
-## Final Dashboard:
-
-![Capture10](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/edc63492-923d-4f15-92e2-32379d0d8b9f)
-
 ## Business Case
 
 Blu Company is a diversified business conglomerate with successful ventures across various product categories and a prominent presence in the real estate sector. The company's Global Business Head has initiated a project to develop a comprehensive dashboard for tracking key metrics related to the company's nine Business Unit Managers (Executives), product sales, quantities sold, and gross margins (GM).
+
+## Final Dashboard:
+
+![Capture10](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/edc63492-923d-4f15-92e2-32379d0d8b9f)
 
 ---------------------------------------------------------------------------------------
 
