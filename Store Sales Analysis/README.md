@@ -1,4 +1,4 @@
-### Business Problem
+## Business Problem
 
 A Sales Manager seeks to gain insights from this dataset to formulate a data-driven business strategy. Specifically, they aim to address the following key questions:
 
@@ -10,7 +10,7 @@ To optimize profit margins, the Sales Manager aims to identify which regional st
 
 In this analysis, we will provide insights and visualizations to address these questions, aiding the Sales Manager in making informed decisions and devising effective business strategies.
 
-### Final Dashboard
+## Final Dashboard
 
 ![Capture1](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/42d5be45-4115-4997-84c0-a22c1b7e2967)
 
