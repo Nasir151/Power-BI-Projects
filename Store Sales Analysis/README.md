@@ -1,3 +1,5 @@
+# Store Sales Analysis
+
 ## Business Problem
 
 A Sales Manager seeks to gain insights from this dataset to formulate a data-driven business strategy. Specifically, they aim to address the following key questions:
