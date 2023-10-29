@@ -1,19 +1,5 @@
 # Netflix Titles Dataset
 
-## Dataset Description
-
-The "Netflix Titles" dataset provides information about TV shows and movies available on the Netflix streaming platform. It includes details such as:
-
-- Year of release
-- Date when added to the OTT platform
-- Country of origin
-- Casting crew
-- Directing crew
-- Genre of the show
-- Duration (runtime)
-- Suitable audience ratings
-- Description of the show
-
 ## Business Problem
 
 A Netflix associate is interested in gaining insights into the content available on the platform. They have several questions they want to answer, including:
@@ -31,6 +17,20 @@ A Netflix associate is interested in gaining insights into the content available
 ### Final Dashboard: 
 
 ![Capture](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/da3a9b12-4446-4b61-af01-34a89415e4c3)
+
+## Dataset Description
+
+The "Netflix Titles" dataset provides information about TV shows and movies available on the Netflix streaming platform. It includes details such as:
+
+- Year of release
+- Date when added to the OTT platform
+- Country of origin
+- Casting crew
+- Directing crew
+- Genre of the show
+- Duration (runtime)
+- Suitable audience ratings
+- Description of the show
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
