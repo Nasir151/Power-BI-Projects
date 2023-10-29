@@ -1,5 +1,38 @@
 # Sales Analysis for Multinational Departmental Stores
 
+## Business Problem
+
+The primary goal of this data analysis is to extract meaningful insights from the dataset and address critical business questions. By doing so, we aim to enhance various aspects of the company's operations and overall performance:
+
+### Region and Product Category Analysis
+
+- **Region Analysis:** We will analyze sales performance across different regions where the company operates. This will help identify regions that require improvement and those that are performing well.
+
+- **Product Category Analysis:** Understanding product categories is essential for optimizing sales and marketing efforts. We will investigate which categories are driving sales and profitability.
+
+### Best Performing Products and Top Customers
+
+- **Best Performing Products:** Identifying the products that contribute the most to sales revenue and profitability can guide inventory management and marketing strategies.
+
+- **Top Customers:** Recognizing and rewarding the top-performing customers who significantly impact sales and profitability is crucial for customer retention and growth.
+
+### Delivery Performance Analysis
+
+- **Delivery Status Analysis:** Analyzing delivery statuses will help us assess how well the company is meeting customer expectations regarding order delivery. This can lead to improvements in the shipping process.
+
+### Department-Level Sales and Profit Analysis
+
+- **Department-Level Analysis:** We will conduct a detailed analysis of sales and profits at the department level within the stores. This can reveal which departments are performing exceptionally well and which may need attention or restructuring.
+
+## Final Dashboard
+![Capture2](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/9dc041e3-c44b-47a5-b021-d3d238338a00)
+
+![Capture3](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/ef171783-898c-41dc-8b5f-92c04cadb15c)
+
+![Capture4](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/78600764-8bc8-4b60-8913-bb7ecd221946)
+
+![Capture5](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/ae2d97d7-1d8d-433e-b284-fbb0ff216398)
+
 ## Dataset Overview
 
 This dataset provides a comprehensive view of sales transactions conducted by a multinational company through its departmental stores across the world. It encompasses a wide array of details related to sales, including discount rates, profits, product information, customer data, store data, and geographical location.
@@ -48,39 +81,6 @@ You can access the dataset [here](https://drive.google.com/file/d/1rNK3nmroxnxiZ
 | Product Status           | Status of the product stock: 1 for not available, 0 for available                                    |
 | Shipping date (DateOrders)| Exact date and time of shipment                                                                   |
 | Shipping Mode            | Shipping modes: Standard Class, First Class, Second Class, Same Day                                 |
-
-## Business Problem
-
-The primary goal of this data analysis is to extract meaningful insights from the dataset and address critical business questions. By doing so, we aim to enhance various aspects of the company's operations and overall performance:
-
-### Region and Product Category Analysis
-
-- **Region Analysis:** We will analyze sales performance across different regions where the company operates. This will help identify regions that require improvement and those that are performing well.
-
-- **Product Category Analysis:** Understanding product categories is essential for optimizing sales and marketing efforts. We will investigate which categories are driving sales and profitability.
-
-### Best Performing Products and Top Customers
-
-- **Best Performing Products:** Identifying the products that contribute the most to sales revenue and profitability can guide inventory management and marketing strategies.
-
-- **Top Customers:** Recognizing and rewarding the top-performing customers who significantly impact sales and profitability is crucial for customer retention and growth.
-
-### Delivery Performance Analysis
-
-- **Delivery Status Analysis:** Analyzing delivery statuses will help us assess how well the company is meeting customer expectations regarding order delivery. This can lead to improvements in the shipping process.
-
-### Department-Level Sales and Profit Analysis
-
-- **Department-Level Analysis:** We will conduct a detailed analysis of sales and profits at the department level within the stores. This can reveal which departments are performing exceptionally well and which may need attention or restructuring.
-
-## Final Dashboard
-![Capture2](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/9dc041e3-c44b-47a5-b021-d3d238338a00)
-
-![Capture3](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/ef171783-898c-41dc-8b5f-92c04cadb15c)
-
-![Capture4](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/78600764-8bc8-4b60-8913-bb7ecd221946)
-
-![Capture5](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/ae2d97d7-1d8d-433e-b284-fbb0ff216398)
 
 --------------------------------------------------------------------------------------------------------------------
 #### Question 1: Find the % share of Computers (category) compared to everything sold under Technology (Department) for the Pacific Asia Market?
