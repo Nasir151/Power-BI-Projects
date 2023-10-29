@@ -2,8 +2,6 @@
 
 In our quest to create a Global Dashboard with key metrics that serve all stakeholders in their decision-making, we have embarked on the crucial initial step of ensuring that the data is complete, clean, and can be seamlessly connected to our dashboard. To achieve this, we have collaborated with various analysts who are responsible for providing data from different regions and sources.
 
-#### Dataset Link: [here](https://docs.google.com/spreadsheets/d/1JHy0_b1bYDuUx2-La-YcgqngKDhRKahi/edit?usp=sharing&ouid=116644621887200689615&rtpof=true&sd=true)
-
 ## Final Dashboard: 
 ![Capture7](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/060cc71e-c83f-46e5-aa30-f8e4d1bd5a94)
 
@@ -16,6 +14,8 @@ In our quest to create a Global Dashboard with key metrics that serve all stakeh
 ![Capture11](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/7671d22f-118f-4375-932d-2d0a7850467b)
 
 ![Capture12](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/c175b1da-96a4-4d73-89e8-168a15db8563)
+
+#### Dataset Link: [here](https://docs.google.com/spreadsheets/d/1JHy0_b1bYDuUx2-La-YcgqngKDhRKahi/edit?usp=sharing&ouid=116644621887200689615&rtpof=true&sd=true)
 
 ## Task 1: Importing Data from Google Sheets
 
