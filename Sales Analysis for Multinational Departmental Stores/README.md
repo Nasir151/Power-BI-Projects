@@ -84,7 +84,13 @@ You can access the dataset [here](https://drive.google.com/file/d/1rNK3nmroxnxiZ
 
 --------------------------------------------------------------------------------------------------------------------
 #### Question 1: Find the % share of Computers (category) compared to everything sold under Technology (Department) for the Pacific Asia Market?
+
+![image](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/87ff4b39-2917-4cba-9c7a-061784d7f1f1)
+
 #### Question 2: What was the USCA % share in Quarter 3 2016 for the Footwear Department?
+
 ![Capture](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/08164584-c730-4416-a043-eee738d0483e)
 
 #### Question 3: Filter all the products sold under Loss with Maximum discount and find the “Total Profit Ratio” of it?
+
+![image](https://github.com/Nasir151/Power-BI-Projects/assets/94509995/8a702d63-3ad0-4107-810e-e2d84883f70a)
